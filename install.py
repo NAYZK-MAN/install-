@@ -345,4 +345,4 @@ if n == '17':
 		os.system('python3 install.py')
 if n == '00':
 	os.system('clear')
-	os.system('cd')
+	os.system('cd $HOME')
