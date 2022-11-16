@@ -5,9 +5,8 @@ The tool is easy to use, programmed to save effort and be easy to use
 
 installation  
 
-cloning 
 
-`https://github.com/NAYZK-MAN/install-`
+`git clone https://github.com/NAYZK-MAN/install-`
 
 `cd install-`
 
